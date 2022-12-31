@@ -1,7 +1,8 @@
 # life
 
 A new Flutter project.
-
+In this app you'll get an amazing experience and having the value of time and life.
+It maybe the reason to have a name of this named as "Life".
 ## Getting Started
 
 This project is a starting point for a Flutter application.
